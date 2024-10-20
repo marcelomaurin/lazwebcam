@@ -1,0 +1,24 @@
+object frmCamera: TfrmCamera
+  Left = 793
+  Height = 334
+  Top = 312
+  Width = 425
+  Caption = 'Camera'
+  ClientHeight = 334
+  ClientWidth = 425
+  OnCreate = FormCreate
+  OnShow = FormShow
+  Position = poMainFormCenter
+  LCLVersion = '3.4.0.0'
+  object MPlayerControl1: TMPlayerControl
+    Left = 0
+    Height = 334
+    Top = 0
+    Width = 425
+    Align = alClient
+    Loop = 0
+    OnClick = MPlayerControl1Click
+    Volume = 0
+    OnGrabImage = MPlayerControl1GrabImage
+  end
+end

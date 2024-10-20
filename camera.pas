@@ -17,6 +17,7 @@ type
     procedure FormCreate(Sender: TObject);
     procedure FormShow(Sender: TObject);
     procedure MPlayerControl1Click(Sender: TObject);
+    procedure MPlayerControl1GrabImage(ASender: TObject; AFilename: String);
   private
      Fimage : TImage;
   public
@@ -34,9 +35,8 @@ implementation
 
 procedure TfrmCamera.FormShow(Sender: TObject);
 begin
-
-  MPlayerControl1.Filename := 'tv://';
-  MPlayerControl1.Play;
+     MPlayerControl1.Filename := 'tv://';
+     MPlayerControl1.Play;
 end;
 
 procedure TfrmCamera.FormCreate(Sender: TObject);
@@ -46,11 +46,21 @@ end;
 
 procedure TfrmCamera.MPlayerControl1Click(Sender: TObject);
 begin
-     MPlayerControl1.GrabImage ;
+     MPlayerControl1.GrabImage;
+     Application.ProcessMessages;
+     Sleep(1000);
+     Application.ProcessMessages;
      FImage.Picture.LoadFromFile(MPlayerControl1.LastImageFilename);
+
      MPlayerControl1.Stop;
      //MPlayerControl1.Visible:=false;
      close;
+end;
+
+procedure TfrmCamera.MPlayerControl1GrabImage(ASender: TObject;
+  AFilename: String);
+begin
+
 end;
 
 end.

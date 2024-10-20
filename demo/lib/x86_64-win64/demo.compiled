@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="d:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1488546183"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq -Fid:\projetos\maurinsoft\lazwebcam\demo\lib\x86_64-win64 -Fud:\projetos\maurinsoft\lazwebcam -FuC:\Users\marce\AppData\Local\lazarus\onlinepackagemanager\packages\mplayer0.1.2\lib\x86_64-win64 -Fud:\lazarus\lcl\units\x86_64-win64\win32 -Fud:\lazarus\lcl\units\x86_64-win64 -Fud:\lazarus\components\freetype\lib\x86_64-win64 -Fud:\lazarus\components\lazutils\lib\x86_64-win64 -Fud:\lazarus\packager\units\x86_64-win64 -Fud:\projetos\maurinsoft\lazwebcam\demo\ -FUd:\projetos\maurinsoft\lazwebcam\demo\lib\x86_64-win64\ -FEd:\projetos\maurinsoft\lazwebcam\demo\ -od:\projetos\maurinsoft\lazwebcam\demo\demo.exe -dLCL -dLCLwin32 demo.lpr"/>
+</CONFIG>

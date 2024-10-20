@@ -1,0 +1,9 @@
+object Form1: TForm1
+  Left = 350
+  Height = 240
+  Top = 250
+  Width = 320
+  Caption = 'Form1'
+  Position = poOwnerFormCenter
+  LCLVersion = '3.4.0.0'
+end

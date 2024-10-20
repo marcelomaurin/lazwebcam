@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="demo.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmmain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="5" Y="44"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\camera.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmCamera"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="34"/>
+        <CursorPos X="35" Y="50"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\marce\AppData\Local\lazarus\onlinepackagemanager\packages\mplayer0.1.2\mplayerctrl.pas"/>
+        <UnitName Value="MPlayerCtrl"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="383"/>
+        <CursorPos Y="398"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="17">
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="21" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="25" Column="40"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="8" Column="74"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="27" Column="53" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="28" Column="53" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="29" Column="53" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="39" Column="36" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="..\camera.pas"/>
+        <Caret Line="19" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="..\camera.pas"/>
+        <Caret Line="49" Column="78" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="..\camera.pas"/>
+        <Caret Line="55" Column="31" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="..\camera.pas"/>
+        <Caret Line="51" Column="32" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="..\camera.pas"/>
+        <Caret Line="56" Column="40" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="..\camera.pas"/>
+        <Caret Line="57" Column="42" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="..\camera.pas"/>
+        <Caret Line="16" Column="5" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\marce\AppData\Local\lazarus\onlinepackagemanager\packages\mplayer0.1.2\mplayerctrl.pas"/>
+        <Caret Line="190" Column="24" TopLine="175"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\marce\AppData\Local\lazarus\onlinepackagemanager\packages\mplayer0.1.2\mplayerctrl.pas"/>
+        <Caret Line="215" Column="76" TopLine="191"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\Users\marce\AppData\Local\lazarus\onlinepackagemanager\packages\mplayer0.1.2\mplayerctrl.pas"/>
+        <Caret Line="240" Column="25" TopLine="214"/>
+      </Position>
+      <Position>
+        <Filename Value="..\camera.pas"/>
+        <Caret Line="55" TopLine="33"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
